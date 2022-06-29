@@ -1,0 +1,10 @@
+APIS:
+-https://developer.riotgames.com/apis
+
+SCRAPING/CRAWLING:
+-https://u.gg/lol/champions
+
+ML algorithms:
+Logistic Regression vs Linear Regression - https://www.ibm.com/topics/logistic-regression#:~:text=Logistic%20regression%20estimates%20the%20probability,bounded%20between%200%20and%201.
+Random forest Classifier - https://en.wikipedia.org/wiki/Random_forest
+K means - https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1

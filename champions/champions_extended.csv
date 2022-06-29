@@ -1,0 +1,161 @@
+name,title,id,tags,Tier,Win Rate,Role
+Aatrox,the Darkin Blade,266,"['Fighter', 'Tank']",B,49.88%,Top
+Ahri,the Nine-Tailed Fox,103,"['Mage', 'Assassin']",S+,50.12%,Middle
+Akali,the Rogue Assassin,84,['Assassin'],D,49.09%,Middle
+Akshan,the Rogue Sentinel,166,"['Marksman', 'Assassin']",S,50.67%,Middle
+Alistar,the Minotaur,12,"['Tank', 'Support']",C,48.2%,Support
+Amumu,the Sad Mummy,32,"['Tank', 'Mage']",B,49.44%,Jungle
+Anivia,the Cryophoenix,34,"['Mage', 'Support']",S+,51.8%,Middle
+Annie,the Dark Child,1,['Mage'],A,50.52%,Middle
+Aphelios,the Weapon of the Faithful,523,['Marksman'],D,45.82%,Bot
+Ashe,the Frost Archer,22,"['Marksman', 'Support']",S,51.09%,Bot
+Aurelion Sol,The Star Forger,136,['Mage'],A,52.3%,Middle
+Azir,the Emperor of the Sands,268,"['Mage', 'Marksman']",B,49.57%,Middle
+Bard,the Wandering Caretaker,432,"['Support', 'Mage']",A,51.76%,Support
+Bel'Veth,the Empress of the Void,200,['Fighter'],S+,50.7%,Jungle
+Blitzcrank,the Great Steam Golem,53,"['Tank', 'Fighter']",B,49.64%,Support
+Brand,the Burning Vengeance,63,['Mage'],C,48.61%,Support
+Braum,the Heart of the Freljord,201,"['Support', 'Tank']",B,49.77%,Support
+Caitlyn,the Sheriff of Piltover,51,['Marksman'],D,47.41%,Bot
+Camille,the Steel Shadow,164,"['Fighter', 'Tank']",S,50.5%,Top
+Cassiopeia,the Serpent's Embrace,69,['Mage'],S,51.93%,Middle
+Cho'Gath,the Terror of the Void,31,"['Tank', 'Mage']",B,50.02%,Top
+Corki,the Daring Bombardier,42,['Marksman'],D,48.1%,Middle
+Darius,the Hand of Noxus,122,"['Fighter', 'Tank']",S+,51.64%,Top
+Diana,Scorn of the Moon,131,"['Fighter', 'Mage']",S,51.03%,Jungle
+Draven,the Glorious Executioner,119,['Marksman'],S+,51%,Bot
+Dr. Mundo,the Madman of Zaun,36,"['Fighter', 'Tank']",S,52.7%,Top
+Ekko,the Boy Who Shattered Time,245,"['Assassin', 'Fighter']",A,50.5%,Jungle
+Elise,the Spider Queen,60,"['Mage', 'Fighter']",A,50.82%,Jungle
+Evelynn,Agony's Embrace,28,"['Assassin', 'Mage']",B,49.42%,Jungle
+Ezreal,the Prodigal Explorer,81,"['Marksman', 'Mage']",D,49.39%,Bot
+Fiddlesticks,the Ancient Fear,9,"['Mage', 'Support']",A,50.27%,Jungle
+Fiora,the Grand Duelist,114,"['Fighter', 'Assassin']",S+,51.7%,Top
+Fizz,the Tidal Trickster,105,"['Assassin', 'Fighter']",S,50.83%,Middle
+Galio,the Colossus,3,"['Tank', 'Mage']",B,49.55%,Middle
+Gangplank,the Saltwater Scourge,41,['Fighter'],D,48.17%,Top
+Garen,The Might of Demacia,86,"['Fighter', 'Tank']",S,50.99%,Top
+Gnar,the Missing Link,150,"['Fighter', 'Tank']",B,49.96%,Top
+Gragas,the Rabble Rouser,79,"['Fighter', 'Mage']",B,48.97%,Top
+Graves,the Outlaw,104,['Marksman'],D,48.59%,Jungle
+Gwen,The Hallowed Seamstress,887,"['Fighter', 'Assassin']",D,45.73%,Top
+Hecarim,the Shadow of War,120,"['Fighter', 'Tank']",C,48.16%,Jungle
+Heimerdinger,the Revered Inventor,74,"['Mage', 'Support']",B,50.94%,Middle
+Illaoi,the Kraken Priestess,420,"['Fighter', 'Tank']",A,50.92%,Top
+Irelia,the Blade Dancer,39,"['Fighter', 'Assassin']",D,47.87%,Middle
+Ivern,the Green Father,427,"['Support', 'Mage']",B,47.78%,Jungle
+Janna,the Storm's Fury,40,"['Support', 'Mage']",S+,54.25%,Support
+Jarvan IV,the Exemplar of Demacia,59,"['Tank', 'Fighter']",B,48.19%,Jungle
+Jax,Grandmaster at Arms,24,"['Fighter', 'Assassin']",C,49.27%,Top
+Jayce,the Defender of Tomorrow,126,"['Fighter', 'Marksman']",D,48.03%,Top
+Jhin,the Virtuoso,202,"['Marksman', 'Mage']",S+,51.43%,Bot
+Jinx,the Loose Cannon,222,['Marksman'],D,48.97%,Bot
+Kai'Sa,Daughter of the Void,145,['Marksman'],D,48.85%,Bot
+Kalista,the Spear of Vengeance,429,['Marksman'],A,50.4%,Bot
+Karma,the Enlightened One,43,"['Mage', 'Support']",D,48.61%,Support
+Karthus,the Deathsinger,30,['Mage'],C,47.39%,Jungle
+Kassadin,the Void Walker,38,"['Assassin', 'Mage']",S+,51.65%,Middle
+Katarina,the Sinister Blade,55,"['Assassin', 'Mage']",D,49.2%,Middle
+Kayle,the Righteous,10,"['Fighter', 'Support']",S,50.12%,Top
+Kayn,the Shadow Reaper,141,"['Fighter', 'Assassin']",S,50.58%,Jungle
+Kennen,the Heart of the Tempest,85,"['Mage', 'Marksman']",C,47.35%,Top
+Kha'Zix,the Voidreaver,121,['Assassin'],S,50.86%,Jungle
+Kindred,The Eternal Hunters,203,['Marksman'],A,50.6%,Jungle
+Kled,the Cantankerous Cavalier,240,"['Fighter', 'Tank']",A,50.24%,Top
+Kog'Maw,the Mouth of the Abyss,96,"['Marksman', 'Mage']",S+,50.68%,Bot
+LeBlanc,the Deceiver,7,"['Assassin', 'Mage']",D,47.4%,Middle
+Lee Sin,the Blind Monk,64,"['Fighter', 'Assassin']",D,46.5%,Jungle
+Leona,the Radiant Dawn,89,"['Tank', 'Support']",D,47.16%,Support
+Lillia,the Bashful Bloom,876,"['Fighter', 'Mage']",B,49.34%,Jungle
+Lissandra,the Ice Witch,127,['Mage'],C,49.31%,Middle
+Lucian,the Purifier,236,['Marksman'],S+,50.86%,Bot
+Lulu,the Fae Sorceress,117,"['Support', 'Mage']",C,49.53%,Support
+Lux,the Lady of Luminosity,99,"['Mage', 'Support']",C,48.88%,Support
+Malphite,Shard of the Monolith,54,"['Tank', 'Fighter']",A,50.08%,Top
+Malzahar,the Prophet of the Void,90,"['Mage', 'Assassin']",S,50.45%,Middle
+Maokai,the Twisted Treant,57,"['Tank', 'Mage']",A,50.92%,Support
+Master Yi,the Wuju Bladesman,11,"['Assassin', 'Fighter']",D,47.06%,Jungle
+Miss Fortune,the Bounty Hunter,21,['Marksman'],A,50.63%,Bot
+Wukong,the Monkey King,62,"['Fighter', 'Tank']",S+,52.21%,Jungle
+Mordekaiser,the Iron Revenant,82,['Fighter'],S,51.17%,Top
+Morgana,the Fallen,25,"['Mage', 'Support']",B,49.34%,Support
+Nami,the Tidecaller,267,"['Support', 'Mage']",S,50.67%,Support
+Nasus,the Curator of the Sands,75,"['Fighter', 'Tank']",A,50.17%,Top
+Nautilus,the Titan of the Depths,111,"['Tank', 'Fighter']",D,48.79%,Support
+Neeko,the Curious Chameleon,518,"['Mage', 'Support']",A,51.65%,Middle
+Nidalee,the Bestial Huntress,76,"['Assassin', 'Mage']",B,49.37%,Jungle
+Nocturne,the Eternal Nightmare,56,"['Assassin', 'Fighter']",B,49.91%,Jungle
+Nunu & Willump,the Boy and His Yeti,20,"['Tank', 'Fighter']",A,52%,Jungle
+Olaf,the Berserker,2,"['Fighter', 'Tank']",S+,51.21%,Top
+Orianna,the Lady of Clockwork,61,"['Mage', 'Support']",B,49.61%,Middle
+Ornn,The Fire below the Mountain,516,"['Tank', 'Fighter']",S,51.89%,Top
+Pantheon,the Unbreakable Spear,80,"['Fighter', 'Assassin']",C,45.06%,Support
+Poppy,Keeper of the Hammer,78,"['Tank', 'Fighter']",A,50.92%,Jungle
+Pyke,the Bloodharbor Ripper,555,"['Support', 'Assassin']",A,49.88%,Support
+Qiyana,Empress of the Elements,246,"['Assassin', 'Fighter']",S,50.69%,Middle
+Quinn,Demacia's Wings,133,"['Marksman', 'Assassin']",A,51.94%,Top
+Rakan,The Charmer,497,['Support'],A,50.65%,Support
+Rammus,the Armordillo,33,"['Tank', 'Fighter']",S,52.47%,Jungle
+Rek'Sai,the Void Burrower,421,['Fighter'],S,52.38%,Jungle
+Rell,the Iron Maiden,526,['Tank'],B,50.24%,Support
+Renata Glasc,the Chem-Baroness,888,"['Support', 'Mage']",S+,52.26%,Support
+Renekton,the Butcher of the Sands,58,"['Fighter', 'Tank']",C,48.69%,Top
+Rengar,the Pridestalker,107,"['Assassin', 'Fighter']",A,50.53%,Jungle
+Riven,the Exile,92,"['Fighter', 'Assassin']",A,50.45%,Top
+Rumble,the Mechanized Menace,68,"['Fighter', 'Mage']",B,48.21%,Top
+Ryze,the Rune Mage,13,"['Mage', 'Fighter']",D,46.16%,Middle
+Samira,the Desert Rose,360,['Marksman'],A,49.9%,Bot
+Sejuani,Fury of the North,113,"['Tank', 'Fighter']",A,51.32%,Jungle
+Senna,the Redeemer,235,"['Marksman', 'Support']",S+,51.58%,Support
+Seraphine,the Starry-Eyed Songstress,147,"['Mage', 'Support']",C,48.74%,Support
+Sett,the Boss,875,"['Fighter', 'Tank']",B,49.69%,Top
+Shaco,the Demon Jester,35,['Assassin'],B,49.28%,Jungle
+Shen,the Eye of Twilight,98,['Tank'],S,52.15%,Top
+Shyvana,the Half-Dragon,102,"['Fighter', 'Tank']",A,51.62%,Jungle
+Singed,the Mad Chemist,27,"['Tank', 'Fighter']",S,53.06%,Top
+Sion,The Undead Juggernaut,14,"['Tank', 'Fighter']",B,49.17%,Top
+Sivir,the Battle Mistress,15,['Marksman'],B,49.07%,Bot
+Skarner,the Crystal Vanguard,72,"['Fighter', 'Tank']",B,51.85%,Jungle
+Sona,Maven of the Strings,37,"['Support', 'Mage']",A,52.18%,Support
+Soraka,the Starchild,16,"['Support', 'Mage']",S,51.21%,Support
+Swain,the Noxian Grand General,50,"['Mage', 'Fighter']",B,48.97%,Support
+Sylas,the Unshackled,517,"['Mage', 'Assassin']",S,50.36%,Middle
+Syndra,the Dark Sovereign,134,"['Mage', 'Support']",D,47.39%,Middle
+Tahm Kench,The River King,223,"['Support', 'Tank']",S,53.22%,Top
+Taliyah,the Stoneweaver,163,"['Mage', 'Support']",C,49.33%,Middle
+Talon,the Blade's Shadow,91,['Assassin'],B,49.65%,Jungle
+Taric,the Shield of Valoran,44,"['Support', 'Fighter']",A,52.9%,Support
+Teemo,the Swift Scout,17,"['Marksman', 'Assassin']",B,49.05%,Top
+Thresh,the Chain Warden,412,"['Support', 'Fighter']",D,48.96%,Support
+Tristana,the Yordle Gunner,18,"['Marksman', 'Assassin']",A,50.13%,Bot
+Trundle,the Troll King,48,"['Fighter', 'Tank']",A,51.75%,Jungle
+Tryndamere,the Barbarian King,23,"['Fighter', 'Assassin']",A,50.09%,Top
+Twisted Fate,the Card Master,4,['Mage'],D,48.74%,Middle
+Twitch,the Plague Rat,29,"['Marksman', 'Assassin']",S+,51.61%,Bot
+Udyr,the Spirit Walker,77,"['Fighter', 'Tank']",A,50.73%,Jungle
+Urgot,the Dreadnought,6,"['Fighter', 'Tank']",A,50.49%,Top
+Varus,the Arrow of Retribution,110,"['Marksman', 'Mage']",B,48.82%,Bot
+Vayne,the Night Hunter,67,"['Marksman', 'Assassin']",A,49.88%,Bot
+Veigar,the Tiny Master of Evil,45,['Mage'],S+,50.83%,Middle
+Vel'Koz,the Eye of the Void,161,['Mage'],A,50.56%,Support
+Vex,the Gloomist,711,['Mage'],D,48.72%,Middle
+Vi,the Piltover Enforcer,254,"['Fighter', 'Assassin']",A,50.55%,Jungle
+Viego,The Ruined King,234,"['Assassin', 'Fighter']",D,48.9%,Jungle
+Viktor,the Machine Herald,112,['Mage'],S+,50.86%,Middle
+Vladimir,the Crimson Reaper,8,['Mage'],S,50.17%,Middle
+Volibear,the Relentless Storm,106,"['Fighter', 'Tank']",S+,53.83%,Jungle
+Warwick,the Uncaged Wrath of Zaun,19,"['Fighter', 'Tank']",A,51.25%,Jungle
+Xayah,the Rebel,498,['Marksman'],D,48.66%,Bot
+Xerath,the Magus Ascendant,101,['Mage'],A,50.2%,Support
+Xin Zhao,the Seneschal of Demacia,5,"['Fighter', 'Assassin']",B,49.7%,Jungle
+Yasuo,the Unforgiven,157,"['Fighter', 'Assassin']",D,49.13%,Middle
+Yone,the Unforgotten,777,"['Assassin', 'Fighter']",A,49.99%,Middle
+Yorick,Shepherd of Souls,83,"['Fighter', 'Tank']",C,48.23%,Top
+Yuumi,the Magical Cat,350,"['Support', 'Mage']",S+,50.84%,Support
+Zac,the Secret Weapon,154,"['Tank', 'Fighter']",S,51.98%,Jungle
+Zed,the Master of Shadows,238,['Assassin'],D,49.5%,Middle
+Zeri,The Spark of Zaun,221,['Marksman'],S+,50.47%,Bot
+Ziggs,the Hexplosives Expert,115,['Mage'],A,50.87%,Bot
+Zilean,the Chronokeeper,26,"['Support', 'Mage']",S,51.79%,Support
+Zoe,the Aspect of Twilight,142,"['Mage', 'Support']",B,49.53%,Middle
+Zyra,Rise of the Thorns,143,"['Mage', 'Support']",A,50.56%,Support

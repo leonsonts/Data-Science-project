@@ -1,0 +1,8 @@
+{
+  "win": true,
+  "objectives.dragon.kills": 2,
+  "objectives.inhibitor.kills": 3,
+  "objectives.riftHerald.kills": 3,
+  "objectives.tower.kills": 4,
+  "teamId": 1
+}

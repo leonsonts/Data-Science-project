@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "data-mining"
+version = "0.1.0"
+description = ""
+authors = ["Leon Sonts <leon.sonts@bigdataboutique.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.27.1"
+black = "^22.3.0"
+beautifulsoup4 = "^4.11.1"
+lxml = "^4.9.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
